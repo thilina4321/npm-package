@@ -1,5 +1,5 @@
 {
-  "name": "my-first-npm",
+  "name": "@exmaplefirst/my-first-npm",
   "version": "1.0.0",
   "description": "",
   "main": "./build/index.js",
